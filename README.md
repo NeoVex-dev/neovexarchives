@@ -2,8 +2,8 @@
 
 Public archive of blog posts, project notes, and experiments.
 
-Website:
-<your Wix URL>
+Websites:
+<https://mypublicdump.wixstudio.com/mypublicdump-blog>
 
 Topics:
 - Space
