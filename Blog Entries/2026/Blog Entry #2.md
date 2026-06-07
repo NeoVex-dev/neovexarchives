@@ -26,26 +26,17 @@ Let's go a little deeper into the differences between a GDD and a GECPD.
 
 
 
+
 | Aspect | GDD | GECPD |
-
-|----------|----------|----------|
-
+|---|---|---|
 | Structure | UI, Art Style, Levels, Audio, and Basic Story | Combines these parts of the game and displays them as the player experiences them |
-
 | Organization | Organized based on systems and categories | Organized based on how the player experiences it |
-
 | Main Question | How are the systems in the game designed? | How does the player experience the game? |
-
 | Atmosphere | Often described in dedicated sections or supporting documents | Described based on how the player views it and how the game progresses |
-
 | Cinematics | Described in a dedicated section of the GDD | Integrated throughout the document |
-
 | Lore | Often outlined in the GDD and expanded through supporting documents | Written as the player encounters and understands the lore |
-
 | Progression | A single section of the GDD | The core of the document structure |
-
 | Purpose | Dedicated to planning and designing systems that are part of the game | Designing and understanding the overall game flow and progression based on how the player experiences it |
-
 | Note | — | The GECPD is not intended to replace all traditional game development documents. Instead, it acts as an experience-focused master document that works alongside documents such as style guides, feature lists, technical documents, and production plans. |
 
 
