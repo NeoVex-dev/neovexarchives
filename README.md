@@ -1,9 +1,9 @@
-# My Public Dump
+# Neovex Archives
 
 Public archive of blog posts, project notes, and experiments.
 
 Websites:
-<https://mypublicdump.wixstudio.com/mypublicdump-blog>
+<https://neovexarchives.wixstudio.com/neovexarchives-blog>
 
 Topics:
 - Space
